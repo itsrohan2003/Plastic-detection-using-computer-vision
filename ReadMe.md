@@ -1,4 +1,4 @@
-
+Please refer to the latest release for the H5 model file.
 Overview
 - Here i have trained dataset using **VGG16** Transfer Learning technique of CNN for classification.
 - Here i have trained this model till **28 epochs** and i got **69.77%** accuracy.
